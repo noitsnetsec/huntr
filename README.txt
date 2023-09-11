@@ -16,6 +16,9 @@ SSS    S*S    YSSP~YSSY    S*S    SSS       S*S       S*S    SSS
 version 1.0.0
                                                                                                                
                                                                                                                                                                                                               
+Installation Tutorial
+https://youtu.be/pKIuspmlq-k?si=FdvTprNVV9dl64jX
+
 HUNTR Security Tool README.txt
 _____________________________________________________________________________________________________________________________________________________________________________________________________________
 *************
